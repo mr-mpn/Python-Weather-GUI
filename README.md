@@ -1,8 +1,8 @@
-Here is a step by step guide on how this application works:
+Here is a step-by-step guide on how this application works:
 
 1- Obtain all the information about the user with the means of the IP Address:
 
-To do so we use an HTTP Get Request on the ipinfo.io ,
+To do so we use an HTTP Get Request on the ipinfo.io,
 
 Here is an example of the info reported by https://ipinfo.io  
 
@@ -18,6 +18,8 @@ Here is an example of the info reported by https://ipinfo.io
 ---------------------------------------------------------
 
 2- Obtain the temperature using Open-Meteo which is an open-source weather API 
+
+for more information : https://open-meteo.com/
 
 ---------------------------------------------------------
 
