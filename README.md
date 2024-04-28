@@ -25,6 +25,6 @@ for more information : https://open-meteo.com/
 
 3- Graphical User Interface (GUI):
 
-The Taipy GUI library provides Python classes that make it easy to create powerful web applications in minutes.
+The Taipy GUI library provides Python classes that make it easy to create simple web applications in minutes.
 
 ![demo](https://github.com/mr-mpn/Python-Weather-GUI/assets/135954454/20bf02b8-8258-40e9-9b7a-9c55e2d0a91d)
