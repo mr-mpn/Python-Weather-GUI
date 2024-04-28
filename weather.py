@@ -29,7 +29,7 @@ index = """
 
 <|City : |><|{city}|>
 
-<|Weather : |><|{temperature}|><| C|>
+<|temperature : |><|{temperature}|><| C|>
 
 >
 """
